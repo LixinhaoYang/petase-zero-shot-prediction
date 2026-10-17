@@ -1,0 +1,121 @@
+query_id,query_len,hit_accession,hit_description,identity_pct,query_coverage_pct
+row_000746,259,SHM40309,hypothetical protein SAMN05443668_101498 [Cryptosporangium aurantiacum],100.0,100.0
+row_000746,259,WP_425430858,alpha/beta hydrolase family protein [Cryptosporangium aurantiacum],100.0,100.0
+row_000746,259,7YM9_A,"Chain A, Poly(ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YM9|B Chain B, Poly(ethylene tereph",100.0,100.0
+row_000746,259,7YME_A,"Chain A, Poly(Ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YME|B Chain B, Poly(Ethylene tereph",96.53,100.0
+row_000746,259,WP_376981284,alpha/beta hydrolase family protein [Cryptosporangium minutisporangium] >gb|MFB9321245.1| alpha/beta hydrolase family pr,93.82,100.0
+row_000747,259,SHM40309,hypothetical protein SAMN05443668_101498 [Cryptosporangium aurantiacum],99.61,100.0
+row_000747,259,WP_425430858,alpha/beta hydrolase family protein [Cryptosporangium aurantiacum],99.61,100.0
+row_000747,259,7YM9_A,"Chain A, Poly(ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YM9|B Chain B, Poly(ethylene tereph",99.61,100.0
+row_000747,259,7YME_A,"Chain A, Poly(Ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YME|B Chain B, Poly(Ethylene tereph",96.14,100.0
+row_000747,259,WP_376981284,alpha/beta hydrolase family protein [Cryptosporangium minutisporangium] >gb|MFB9321245.1| alpha/beta hydrolase family pr,93.44,100.0
+row_000001,259,SHM40309,hypothetical protein SAMN05443668_101498 [Cryptosporangium aurantiacum],99.61,100.0
+row_000001,259,WP_425430858,alpha/beta hydrolase family protein [Cryptosporangium aurantiacum],99.61,100.0
+row_000001,259,7YM9_A,"Chain A, Poly(ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YM9|B Chain B, Poly(ethylene tereph",99.61,100.0
+row_000001,259,7YME_A,"Chain A, Poly(Ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YME|B Chain B, Poly(Ethylene tereph",96.14,100.0
+row_000001,259,WP_376981284,alpha/beta hydrolase family protein [Cryptosporangium minutisporangium] >gb|MFB9321245.1| alpha/beta hydrolase family pr,93.44,100.0
+row_000002,259,SHM40309,hypothetical protein SAMN05443668_101498 [Cryptosporangium aurantiacum],99.61,100.0
+row_000002,259,WP_425430858,alpha/beta hydrolase family protein [Cryptosporangium aurantiacum],99.61,100.0
+row_000002,259,7YM9_A,"Chain A, Poly(ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YM9|B Chain B, Poly(ethylene tereph",99.61,100.0
+row_000002,259,7YME_A,"Chain A, Poly(Ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YME|B Chain B, Poly(Ethylene tereph",96.14,100.0
+row_000002,259,WP_376981284,alpha/beta hydrolase family protein [Cryptosporangium minutisporangium] >gb|MFB9321245.1| alpha/beta hydrolase family pr,93.44,100.0
+row_000005,259,SHM40309,hypothetical protein SAMN05443668_101498 [Cryptosporangium aurantiacum],99.61,100.0
+row_000005,259,WP_425430858,alpha/beta hydrolase family protein [Cryptosporangium aurantiacum],99.61,100.0
+row_000005,259,7YM9_A,"Chain A, Poly(ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YM9|B Chain B, Poly(ethylene tereph",99.61,100.0
+row_000005,259,7YME_A,"Chain A, Poly(Ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YME|B Chain B, Poly(Ethylene tereph",96.14,100.0
+row_000005,259,WP_376981284,alpha/beta hydrolase family protein [Cryptosporangium minutisporangium] >gb|MFB9321245.1| alpha/beta hydrolase family pr,93.44,100.0
+row_000007,259,SHM40309,hypothetical protein SAMN05443668_101498 [Cryptosporangium aurantiacum],99.61,100.0
+row_000007,259,WP_425430858,alpha/beta hydrolase family protein [Cryptosporangium aurantiacum],99.61,100.0
+row_000007,259,7YM9_A,"Chain A, Poly(ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YM9|B Chain B, Poly(ethylene tereph",99.61,100.0
+row_000007,259,7YME_A,"Chain A, Poly(Ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YME|B Chain B, Poly(Ethylene tereph",96.14,100.0
+row_000007,259,WP_376981284,alpha/beta hydrolase family protein [Cryptosporangium minutisporangium] >gb|MFB9321245.1| alpha/beta hydrolase family pr,93.44,100.0
+row_000008,259,SHM40309,hypothetical protein SAMN05443668_101498 [Cryptosporangium aurantiacum],99.61,100.0
+row_000008,259,WP_425430858,alpha/beta hydrolase family protein [Cryptosporangium aurantiacum],99.61,100.0
+row_000008,259,7YM9_A,"Chain A, Poly(ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YM9|B Chain B, Poly(ethylene tereph",99.61,100.0
+row_000008,259,7YME_A,"Chain A, Poly(Ethylene terephthalate) hydrolase [Cryptosporangium aurantiacum] >pdb|7YME|B Chain B, Poly(Ethylene tereph",96.14,100.0
+row_000008,259,WP_376981284,alpha/beta hydrolase family protein [Cryptosporangium minutisporangium] >gb|MFB9321245.1| alpha/beta hydrolase family pr,93.44,100.0
+row_002743,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002743,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002743,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002743,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_002743,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002746,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002746,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002746,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002746,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002746,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_002747,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002747,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002747,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002747,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_002747,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002748,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002748,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002748,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002748,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002748,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_002749,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002749,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002749,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002749,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002749,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_002750,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002750,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002750,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002750,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002750,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_002735,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002735,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002735,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002735,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002735,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_002736,257,WP_162908185,poly(ethylene terephthalate) hydrolase family protein [Allorhizocola rhizosphaerae],99.61,100.0
+row_002736,257,WP_245950728,poly(ethylene terephthalate) hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002736,257,PSL48661,dienelactone hydrolase family protein [Saccharothrix carnea],86.38,100.0
+row_002736,257,WP_241828563,MULTISPECIES: poly(ethylene terephthalate) hydrolase family protein [Saccharothrix] >gb|MFD0200252.1| cellulose binding ,85.99,100.0
+row_002736,257,OKI36454,lipase [Saccharothrix sp. CB00851],85.99,100.0
+row_004823,248,WP_052863392,MULTISPECIES: bis(hydroxyethyl) terephthalate hydrolase [Streptomyces] >dbj|GAA0497453.1| lipase [Streptomyces olivaceis,100.0,100.0
+row_004823,248,WP_399719650,bis(hydroxyethyl) terephthalate hydrolase [Streptomyces sp. NPDC053560] >gb|MFI9030816.1| alpha/beta hydrolase family pr,96.77,100.0
+row_004823,248,WP_365504245,bis(hydroxyethyl) terephthalate hydrolase [Streptomyces sp. NPDC052225] >gb|MEV5609340.1| dienelactone hydrolase family ,96.37,100.0
+row_004823,248,WP_361566407,bis(hydroxyethyl) terephthalate hydrolase [Streptomyces sp. NPDC047117] >gb|MEU6119394.1| alpha/beta hydrolase [Streptom,96.37,100.0
+row_004823,248,MGI5467235,alpha/beta hydrolase family protein [Streptomyces sp. CA-132043],96.37,100.0
+row_004733,254,WP_219725338,alpha/beta hydrolase family protein [Stutzerimonas stutzeri] >gb|MCQ4248922.1| dienelactone hydrolase family protein [St,100.0,100.0
+row_004733,254,PNG04480,alpha/beta hydrolase [Stutzerimonas stutzeri],100.0,100.0
+row_004733,254,WP_392632110,alpha/beta hydrolase family protein [Stutzerimonas stutzeri] >gb|MFG3692764.1| alpha/beta hydrolase family protein [Stut,99.21,100.0
+row_004733,254,WP_212618002,MULTISPECIES: alpha/beta hydrolase family protein [Stutzerimonas] >gb|QUE74521.1| dienelactone hydrolase family protein ,98.82,100.0
+row_004733,254,WP_241787060,alpha/beta hydrolase family protein [Stutzerimonas stutzeri] >gb|MCI0918973.1| dienelactone hydrolase family protein [St,98.43,100.0
+row_004716,260,MBG38712,lipase [Cryomorphaceae bacterium],100.0,100.0
+row_004716,260,MBL6667200,T9SS type A sorting domain-containing protein [Crocinitomicaceae bacterium],84.56,99.62
+row_004716,260,OUT69888,MAG: hypothetical protein CBB76_07695 [Crocinitomicaceae bacterium TMED16],84.56,99.62
+row_004716,260,MAA58055,lipase [Cryomorphaceae bacterium],83.4,99.62
+row_004716,260,MDB2408969,lipase [Crocinitomicaceae bacterium],80.93,98.85
+row_004714,250,WP_228247074,MULTISPECIES: alpha/beta hydrolase family protein [Halopseudomonas] >gb|MAK73749.1| alpha/beta hydrolase [Pseudomonadale,100.0,100.0
+row_004714,250,MAY07254,alpha/beta hydrolase [Pseudomonadales bacterium],100.0,100.0
+row_004714,250,BFF41621,aliphatic polyester hydrolase variant [Halopseudomonas sp.],99.6,100.0
+row_004714,250,WP_088276085,alpha/beta hydrolase family protein [Halopseudomonas aestusnigri] >gb|OWL88088.1| hypothetical protein B7O88_11480 [Halo,99.6,100.0
+row_004714,250,6SBN_A,"Chain A, polyester hydrolase [Halopseudomonas aestusnigri]",99.6,100.0
+row_004906,250,WP_045531004,dienelactone hydrolase family protein [Clavibacter michiganensis] >gb|AJW80735.1| hypothetical protein VO01_15990 [Clavi,100.0,100.0
+row_004906,250,RIJ45107,hypothetical protein DZF93_00250 [Clavibacter michiganensis subsp. insidiosus],100.0,100.0
+row_004906,250,WP_052663307,dienelactone hydrolase family protein [Clavibacter michiganensis],99.59,98.4
+row_004906,250,AWF99932,hypothetical protein BEH61_15610 [Clavibacter michiganensis subsp. insidiosus],99.57,92.0
+row_004906,250,WP_012299049,MULTISPECIES: alpha/beta hydrolase family protein [Clavibacter] >gb|MBD5382645.1| alpha/beta hydrolase [Clavibacter sp.],68.92,100.4
+row_004691,213,AWF99568,lipase [Clavibacter michiganensis subsp. insidiosus] >gb|AWG00313.1| lipase [Clavibacter michiganensis subsp. insidiosus,100.0,100.0
+row_004691,213,WP_045526465,alpha/beta hydrolase [Clavibacter michiganensis] >gb|AJW78050.1| lipase [Clavibacter michiganensis subsp. insidiosus] >g,100.0,100.0
+row_004691,213,WP_307838877,alpha/beta hydrolase [Clavibacter michiganensis] >gb|MBM7412642.1| dienelactone hydrolase [Clavibacter michiganensis],93.4,99.53
+row_004691,213,WP_317231833,alpha/beta hydrolase [Clavibacter capsici],92.45,99.53
+row_004691,213,WP_086521196,alpha/beta hydrolase [Clavibacter michiganensis] >gb|OUE20606.1| Lipase 1 [Clavibacter michiganensis],92.02,100.0
+row_004722,255,WP_198043520,alpha/beta hydrolase family protein [Ketobacter nezhaii],100.0,100.0
+row_004722,255,MGB3621091,hypothetical protein [Ketobacter sp.] >gb|MGC1511055.1| hypothetical protein [Ketobacter sp.],100.0,100.0
+row_004722,255,MVF13068,alpha/beta hydrolase [Ketobacter nezhaii],100.0,100.0
+row_004722,255,RLP53020,MAG: alpha/beta hydrolase [Ketobacter sp.],100.0,100.0
+row_004722,255,WP_156871850,alpha/beta hydrolase family protein [Ketobacter nezhaii] >gb|MGC1511054.1| dienelactone hydrolase family protein [Ketoba,85.1,100.0
+row_004842,237,WP_070573976,poly(ethylene terephthalate) hydrolase family protein [Brevibacterium sp. HMSC063G07] >gb|OFL65278.1| hypothetical prote,100.0,100.0
+row_004842,237,WP_070777691,poly(ethylene terephthalate) hydrolase family protein [Brevibacterium sp. HMSC07C04] >gb|OFS25199.1| hypothetical protei,99.16,100.0
+row_004842,237,WP_151952222,poly(ethylene terephthalate) hydrolase family protein [Brevibacterium sp. Marseille-P9724],98.73,100.0
+row_004842,237,WP_061944251,poly(ethylene terephthalate) hydrolase family protein [Brevibacterium ravenspurgense],90.72,100.0
+row_004842,237,WP_239232669,poly(ethylene terephthalate) hydrolase family protein [Brevibacterium ravenspurgense] >gb|MCG7300101.1| alpha/beta hydro,90.3,100.0
+row_004700,263,HBJ91061,hypothetical protein [Gammaproteobacteria bacterium],100.0,100.0
+row_004700,263,MDA9611877,dienelactone hydrolase family protein [OM182 bacterium],99.24,99.62
+row_004700,263,MAV32112,hypothetical protein [Gammaproteobacteria bacterium],95.44,100.0
+row_004700,263,MGB0559093,alpha/beta hydrolase family protein [Pseudohongiellaceae bacterium],94.3,100.0
+row_004700,263,MCY3690295,dienelactone hydrolase family protein [Gammaproteobacteria bacterium] >gb|MYF00705.1| hypothetical protein [Gammaproteob,93.16,100.0

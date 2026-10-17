@@ -1,0 +1,10 @@
+# Core prediction and candidate-filter workflows (Python 3.11).
+# Versions actually used during release checks are recorded in docs/VALIDATION.md.
+numpy>=1.26,<2
+pandas>=2,<4
+scipy>=1.10,<2
+scikit-learn>=1.2,<2
+torch>=2.2,<3
+fair-esm==2.0.0
+openpyxl>=3.1,<4
+

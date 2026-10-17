@@ -1,0 +1,41 @@
+# Generated runs and model/download caches
+/outputs/
+/cache/
+/logs/
+**/cache_*/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.dmnd
+*.log
+*.out
+*.err
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+
+# Local credentials and editor / OS state
+.env
+.env.*
+!.env.example
+*.pem
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
